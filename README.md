@@ -64,7 +64,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 ### Deployment
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+<img width="737" height="832" alt="Снимок экрана 2026-02-13 152212" src="https://github.com/user-attachments/assets/c78d19f9-c74b-429f-b3ba-39927d39feef" />
+<img width="737" height="832" alt="Снимок экрана 2026-02-13 152212" src="https://github.com/user-attachments/assets/c78d19f9-c74b-429f-b3ba-39927d39feef" />
+<img width="717" height="833" alt="Снимок экрана 2026-02-13 152809" src="https://github.com/user-attachments/assets/9953132f-04e1-4179-b062-9a3a20ad37a8" />
+<img width="717" height="833" alt="Снимок экрана 2026-02-13 152809" src="https://github.com/user-attachments/assets/9953132f-04e1-4179-b062-9a3a20ad37a8" />
 
 ### `npm run build` fails to minify
+<img width="468" height="821" alt="Снимок экрана 2026-02-13 152118" src="https://github.com/user-attachments/assets/e307ca50-ea05-45af-9371-ff483ee60872" />
+<img width="468" height="821" alt="Снимок экрана 2026-02-13 152118" src="https://github.com/user-attachments/assets/e307ca50-ea05-45af-9371-ff483ee60872" />
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
